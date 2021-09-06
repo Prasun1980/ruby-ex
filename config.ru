@@ -1,3 +1,3 @@
 puts "Please enter your name."
-name = gets
-puts "Hi, #{name}! I'm Ruby!"
+puts "Hello World"
+puts "Hello Again"
